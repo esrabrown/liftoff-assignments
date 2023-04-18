@@ -7,11 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My group and I will be working on a project about housekeeping.
-Our app is going to provide an user login that user will be able to schedule, purchase 
-the packages with discounts, select the providers and pay for the package directly from the app.
-When users signed up, they will enter the required info and see the estimate. Once paid,
-user can view all orders/paid invoices. Also, user will be able to leave a feedback.
+Our group will be working on a project about housekeeping.
+The project's name is Qlean Quotes. Our app is going to provide an user login that 
+user will be able to schedule, purchase the packages with discounts, select the providers 
+and pay for the package directly from the app.When users signed up, they will enter 
+the required info and see the estimate. Once paid, user can view all orders/paid invoices.
+Also, user will be able to leave a feedback.
 
 ### Features
 User login : Users will be able to create accounts and log in to the application.Each user will have a profile page.
@@ -30,8 +31,9 @@ Spring Boot
 MySQL
 
 ### What I'll Have to Learn
-Spring Security, Stripe Checkout,
+Spring Security,
+Stripe Checkout,
 And I will need to learn how to connect front-end and back-end
 
 ### Project Tracker
-https://trello.com/b/V45U6pTf/esra-liftoff
+https://trello.com/b/69tSr3fF/qleanquotes
