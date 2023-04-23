@@ -14,7 +14,7 @@ https://github.com/esrabrown
 https://www.linkedin.com/in/esrabrown
 
 ### Resume
-https://drive.google.com/file/d/1PAEZd_i1OIZ366UnWU9HdbkuULrsYwaA/view?usp=share_link
+https://drive.google.com/file/d/1096JYsyH1IT5Q5EAkrSWTrMsdZr5Vbf_/view?usp=sharing
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
